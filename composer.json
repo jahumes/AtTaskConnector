@@ -16,7 +16,7 @@
   "require": {},
   "autoload": {
     "psr-0": {
-      "Outbox/AtTaskConnector": "src"
+      "Outbox\\AtTaskConnector": "src"
     }
   }
 }
