@@ -1,0 +1,22 @@
+{
+  "name": "outbox/attask-connector",
+  "type": "library",
+  "description": "Standard Outbox Connector for AtTAsk",
+  "keywords": [
+    "salesforce",
+    "crm",
+    "soap",
+    "force.com",
+    "web services"
+  ],
+  "license": "MIT",
+  "authors": [
+
+  ],
+  "require": {},
+  "autoload": {
+    "psr-0": {
+      "Outbox/AtTaskConnector": "src"
+    }
+  }
+}
